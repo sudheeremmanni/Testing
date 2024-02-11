@@ -11,5 +11,6 @@ public class Student{
 if (d==0 && c>=5){
         d = a+b+c;
         System.out.println(d);
+        //print
     }
 }
