@@ -1,7 +1,6 @@
 public class Student{
     //Testing purpose
     //Git Testing purpose
-    //Git Stash and Unstash changes
     int a = 5;
     int b = 5;
     int c= 8;
@@ -12,5 +11,6 @@ public class Student{
 if (d==0 && c>=5){
         d = a+b+c;
         System.out.println(d);
+        //print
     }
 }
